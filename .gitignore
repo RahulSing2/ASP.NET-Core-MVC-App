@@ -3,3 +3,13 @@
 ################################################################################
 
 /.vs
+/ASP.NET-Core-MVC-App/.vs/ASP.NET-Core-MVC-App
+/ASP.NET-Core-MVC-App/ASP.NET-Core-MVC-App/bin/Debug/netcoreapp3.1
+/ASP.NET-Core-MVC-App/ASP.NET-Core-MVC-App/obj/Debug/netcoreapp3.1/staticwebassets
+/ASP.NET-Core-MVC-App/ASP.NET-Core-MVC-App/obj/Release/netcoreapp3.1
+/ASP.NET-Core-MVC-App/ASP.NET-Core-MVC-App/obj/Debug/netcoreapp3.1/Razor/Pages/Shared
+/ASP.NET-Core-MVC-App/ASP.NET-Core-MVC-App/obj/Debug/netcoreapp3.1/Razor/Pages
+/ASP.NET-Core-MVC-App/ASP.NET-Core-MVC-App/obj/Debug/netcoreapp3.1
+/ASP.NET-Core-MVC-App/ASP.NET-Core-MVC-App/obj
+/ASP.NET-Core-MVC-App/ASP.NET-Core-MVC-App/Properties
+/ASP.NET-Core-MVC-App/ASP.NET-Core-MVC-App/wwwroot
